@@ -42,8 +42,7 @@ Follow these steps to run the website locally:
 ---
 
 ## Deployment
-The portfolio website is deployed and accessible online at: [
-https://rohan2023101003.github.io/Static_portfolio/](#)
+The portfolio website is deployed and accessible online at:https://rohan2023101003.github.io/Static_portfolio/
 
 To deploy the website:
 1. Use GitHub Pages or any hosting platform such as Netlify or Vercel.
